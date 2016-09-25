@@ -1,0 +1,19 @@
+{
+  "name": "uajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giorgi-pro/uajs.git"
+  },
+  "author": "giorgi.pro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giorgi-pro/uajs/issues"
+  },
+  "homepage": "https://github.com/giorgi-pro/uajs#readme"
+}
